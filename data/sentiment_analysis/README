@@ -1,0 +1,9 @@
+This folder contains a subset of IMDB review dataset: 3000 reviews for training and 3000 reviews for testing.
+
+Each row is a single review.
+
+Positve reviews and negative reviews are in separated files indicated by their names.
+
+all_merged.txt is used for you to build a vocabulary.
+
+
